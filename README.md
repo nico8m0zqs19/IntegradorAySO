@@ -13,4 +13,4 @@ Este repositorio contiene el trabajo práctico final de la materia Arquitectura 
 
 ---
 
-## Link video
+## Link video: https://youtu.be/Ifq4M2mDasY
